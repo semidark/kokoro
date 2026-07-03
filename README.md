@@ -40,6 +40,7 @@ import soundfile as sf
 import torch
 # 🇺🇸 'a' => American English, 🇬🇧 'b' => British English
 # 🇪🇸 'e' => Spanish es
+# 🇩🇪 'd' => German de
 # 🇫🇷 'f' => French fr-fr
 # 🇮🇳 'h' => Hindi hi
 # 🇮🇹 'i' => Italian it
